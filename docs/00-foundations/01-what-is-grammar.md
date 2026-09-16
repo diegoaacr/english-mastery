@@ -566,20 +566,20 @@ Lo estudiaremos en **Simple Present**.
 
 # 🚀 Siguiente paso
 
-Ya entendemos cómo distinguimos entre **una persona o cosa** y **varias**.
-
-Ahora necesitamos entender algo fundamental:
-
-> **¿Quién está hablando y de quién estamos hablando?**
-
-Eso nos lleva a conceptos como:
+Ahora sabemos qué es Grammar, pero hemos utilizado palabras como:
 
 ```text
-First person  → I / We
-Second person → You
-Third person  → He / She / It / They
+noun
+pronoun
+verb
+adjective
 ```
 
-👉 **[05 — Grammatical Person](./05-grammatical-person.md)**
+¿Qué significan?
 
-> Entender la persona gramatical será clave para comprender después por qué decimos `I work`, pero `he works`.
+Esas palabras pertenecen a las Parts of Speech.
+
+
+👉 **[02 — Parts of Speech](./02-parts-of-speech.md)**
+
+> Primero entendemos las piezas. Despues aprendemos las reglas que las conectan.
